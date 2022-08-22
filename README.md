@@ -19,7 +19,7 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirill2603&show_icons=true&locale=en&layout=compact&theme=dark" alt="kirill2603" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirill2603&show_icons=true&locale=en&card_width=40](https://github-readme-stats.vercel.app/api?username=kirill2603&hide=contribs&theme=dark&show_icons=true&count_private=true&layout=compact" alt="kirill2603" />
+<img align="center" width='400px' src="https://github-readme-stats.vercel.app/api?username=kirill2603&show_icons=true&locale=en&card_width=40](https://github-readme-stats.vercel.app/api?username=kirill2603&hide=contribs&theme=dark&show_icons=true&count_private=true&layout=compact" alt="kirill2603" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill2603&label=Profile%20views&color=0e75b6&style=flat" alt="kirill2603" /> </p>
