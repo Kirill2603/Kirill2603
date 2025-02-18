@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
-<h3 align="center">I am a frontend developer from Minsk</h3>
-
-- 🌱 I’m currently learning **NextJS, ,NestJS, PostgesQL,**
+<h3 align="center">I am a Mobile developer from Minsk</h3>
 
 - 👨‍💻 All of my projects are available at [https://kirill2603.github.io/portfolio-app/](https://kirill2603.github.io/portfolio-app/)
 
